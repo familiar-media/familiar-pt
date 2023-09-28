@@ -1,0 +1,104 @@
+aggregators:
+  - url: carjet.com
+companies:
+  -
+    name: Abbycar
+    aggregators: true
+  -
+    name: ACE
+    aggregators: true
+  -
+    name: addCar
+    aggregators: true
+  -
+    name: Alamo
+    aggregators: true
+  -
+    name: ANC Azores
+    aggregators: true
+  -
+    name: AutAtlantis
+    aggregators: true
+  -
+    name: autoCunha
+    aggregators: true
+  -
+    name: AVIS
+    aggregators: true
+  -
+    url: https://www.driveonholidays.com
+    name: Drive on Holidays
+    aggregators: true
+  -
+    name: Economy Rent a car
+    aggregators: true
+  -
+    name: Enterprise
+    aggregators: true
+  -
+    name: Europcar
+    aggregators: true
+  -
+    name: Funchal Drive
+    aggregators: true
+  -
+    name: Goldcar
+    aggregators: true
+  -
+    name: Guerin
+    aggregators: true
+  -
+    name: Ilha Verde
+    aggregators: true
+  -
+    name: MicAuto
+    aggregators: true
+  -
+    name: National
+    aggregators: true
+  -
+    name: Priceless
+    aggregators: true
+  -
+    name: Sixt
+    aggregators: true
+  -
+    name: Way2Azores
+    aggregators: true
+  -
+    name: Wayzor (Grupo bensaude)
+    aggregators: true
+  -
+    name: Prime Azores
+    url: https://primeazores.pt
+    notes: ID.BUZZ
+    aggregators: false
+  -
+    name: Auto Ramalhense
+    url: https://autoramalhense.com
+    aggregators: false
+  -
+    name: Magic Islands
+    url: magicislands.pt
+    aggregators: false
+  -
+    url: https://www.caazoresrentacar.com
+    name: C&A azores
+    aggregators: false
+  -
+    url: http://islandrent.net
+    name: Island Rent
+    aggregators: false
+  -
+    name: Wonder island
+    aggregators: false
+  -
+    name: Auto ilhéu rent-a-car
+    url: https://autoilheu.pt
+    aggregators: false
+  -
+    name: Auto Ramalhense
+    aggregators: false
+  -
+    name: Auto Menezes
+    aggregators: false
