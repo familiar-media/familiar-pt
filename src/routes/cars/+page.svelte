@@ -3,8 +3,9 @@
 	export let data;
 </script>
 
-{data.title}
+<h1>{data.title}</h1>
 
+<h2>Rental Car Companies</h2>
 <ul>
 	{#each data.companies as { name, url }, i}
 		<li>

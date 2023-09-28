@@ -6,7 +6,7 @@ export async function load({ fetch }) {
   const data = await res.json();
   const cars = data.find(({ id }) => (id === 'car-rental'))
   return {
-    title: `Title goes here`,
+    title: cars.title,
     content: `Content goes here`,
     companies: cars.companies,
   };
