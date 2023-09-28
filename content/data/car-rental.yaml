@@ -79,7 +79,7 @@ companies:
     aggregators: false
   -
     name: Magic Islands
-    url: magicislands.pt
+    url: https://magicislands.pt
     aggregators: false
   -
     url: https://www.caazoresrentacar.com
